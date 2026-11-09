@@ -1,0 +1,17 @@
+{
+  "date": "2026-11-08",
+  "status": "summary_only",
+  "totals": {
+    "kcal": 2081,
+    "protein_g": 140.4,
+    "fat_g": 90.1,
+    "carbs_g": 180.5
+  },
+  "known_last_entry": {
+    "name": "Грецкие орехи",
+    "weight_g": 9,
+    "kcal_approx": 59,
+    "already_in_totals": true
+  },
+  "note": "Итог восстановлен из предыдущего диалога. Полный перечень продуктов неизвестен."
+}
