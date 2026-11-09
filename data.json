@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-09T16:49:00+03:00",
+  "generated_at": "2026-11-09T15:13:55.993Z",
   "days": [
     {
       "date": "2026-11-08",
@@ -15,29 +15,21 @@
       "date": "2026-11-09",
       "status": "in_progress",
       "totals": {
-        "kcal": 1291,
-        "protein_g": 67,
-        "fat_g": 40.9,
-        "carbs_g": 163.4
+        "kcal": 1551,
+        "protein_g": 76,
+        "fat_g": 45.4,
+        "carbs_g": 206.4
       }
     }
   ],
   "measurements": [
     {
-      "date": "2026-11-02",
-      "weight_kg": "91.1",
-      "waist_cm": "104"
-    }
-  ],
-  "sessions": [],
-  "observations": [
-    {
-      "context": "Хоккейная тренировка (дата не уточнена)",
-      "reported_condition": "Слабость при недостатке углеводов"
+      "date": "2026-09-15",
+      "weight_kg": 94.25
     },
     {
-      "context": "Последующие тренировки (даты не уточнены)",
-      "reported_condition": "После корректировки питания тренировки проходили хорошо"
+      "date": "2026-11-02",
+      "weight_kg": 91.1
     }
   ]
 }
