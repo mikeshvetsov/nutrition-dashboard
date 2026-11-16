@@ -1,0 +1,17 @@
+{
+  "date": "2026-11-16",
+  "weight_kg": 90.25,
+  "waist_cm": 103,
+  "height_cm": 176,
+  "body_fat_percent": 26.2,
+  "body_fat_kg": 23.6,
+  "lean_mass_kg": 66.6,
+  "body_water_percent": 54.1,
+  "skeletal_muscle_percent": 42,
+  "muscle_percent": 68.8,
+  "visceral_fat_index": 9,
+  "subcutaneous_fat_kg": 20.4,
+  "bmr_kcal": 1808,
+  "bmi": 29.1,
+  "source": "Отчёт биоимпедансных весов 16.11.2026 08:49; талия измерена отдельно"
+}
