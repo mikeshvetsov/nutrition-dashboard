@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-17T16:25:33.882Z",
+  "generated_at": "2026-11-17T20:30:01.897Z",
   "days": [
     {
       "date": "2026-11-08",
@@ -95,10 +95,10 @@
       "date": "2026-11-17",
       "status": "in_progress",
       "totals": {
-        "kcal": 1578,
+        "kcal": 1972,
         "protein_g": 153.79,
         "fat_g": 29.06,
-        "carbs_g": 173
+        "carbs_g": 271
       }
     }
   ],
